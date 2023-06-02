@@ -43,15 +43,43 @@ I'm a computer engineering graduate from New York University, Tandon School of E
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk)
 
 
-## Projects 🏗
+## Projects 💻
 
-- **Embedded Sentry** - A bio-security system using an STM32F429I-Discovery microcontroller and Mbed OS. [Details](your-github-url)
-- **Air Ticket Reservation Web Application** - A dual-interface Online Air Ticket Reservation System for both Customers and Airline Staff. [Details](your-github-url)
-- **Modular Wearable System** - A wearable device applying non-invasive muscle signal decoding to aid individuals with physical or neurological impairments. [Details](your-github-url)
-- **Breast Cancer Survivability Prediction** - Machine learning project to predict survivability of women with breast cancer. [Details](your-github-url)
-- **Blood Pressure Machine (Sphygmomanometer)** - Measuring device for heart rate, systolic and diastolic blood pressure. [Details](your-github-url)
-- **E20 Assembler / Processor Simulator/ Cache** - CPU simulation program. [Details](your-github-url)
-- **Traffic Light Controller** - Traffic control system implemented with FPGA and Verilog. [Details](your-github-url)
+#### Embedded Sentry 🛡️
+- 📅 Spring 2023
+- 🔧 ![STM32F429I-Discovery](https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics)
+- 🔧 ![Mbed](https://img.shields.io/badge/-Mbed-black?style=flat-square&logo=Arm)
+
+#### Air Ticket Reservation Web Application ✈️
+- 📅 Spring 2023
+- 🔧 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+- 🔧 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+- 🔧 ![Python Flask](https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask)
+- 🔧 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+#### Modular Wearable System 👕
+- 📅 Summer 2022
+- 🔧 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif)
+- 🔧 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+
+#### Breast Cancer Survivability Prediction 🎗️
+- 📅 Fall 2022
+- 🔧 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- 🔧 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
+
+#### Blood Pressure Machine (Sphygmomanometer) 💉
+- 📅 Spring 2022
+- 🔧 ![ATmega32U4](https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino)
+
+#### E20 Assembler / Processor Simulator/ Cache ⚙️
+- 📅 Spring 2021
+- 🔧 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+
+#### Traffic Light Controller 🚦
+- 📅 Fall 2021
+- 🔧 ![FPGA](https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera)
+- 🔧 ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx)
+
 
 ## Work Experience 💼
 
