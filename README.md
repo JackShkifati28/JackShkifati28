@@ -1,6 +1,6 @@
 # Hello, I'm Jack Shkifati 👋
 
-![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fcomputer-engineering-flyer-vector-9998328&psig=AOvVaw0N2OPoVP0QUqoN4UaEiUIe&ust=1685826636399000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLibzeG_pf8CFQAAAAAdAAAAABAv)
+![My Image](https://drive.google.com/file/d/1uNkDlVRnRKGvkvut8AObpgel2e5a5U7v/view?usp=share_link)
 
 ## About Me 🚀
 
