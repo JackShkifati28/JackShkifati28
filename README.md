@@ -63,41 +63,40 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=autodesk)
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk)
 
-
 <details>
   <summary><strong>Skills 🛠</strong></summary>
   <br>
-  <div style="width: 100%; overflow-x: auto;">
+  <div style="overflow-x: scroll;">
     <div style="display: flex;">
-      <img src="https://img.shields.io/badge/-Unix-black?style=flat-square&logo=linux" alt="Unix" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" alt="Linux" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Macintosh-black?style=flat-square&logo=apple" alt="Macintosh" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Raspbian-black?style=flat-square&logo=raspberry-pi" alt="Raspbian" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" alt="C++" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt="HTML" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt="CSS" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask" alt="Python Flask" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Arduino_UNO-black?style=flat-square&logo=arduino" alt="Arduino UNO" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino" alt="ATmega32u4" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif" alt="ESP32" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics" alt="STM32F429I-Discovery" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx" alt="Xilinx Vivado" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Verilog_HDL-black?style=flat-square&logo=verilog" alt="Verilog HDL" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera" alt="FPGA" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Cadence_Virtuoso-black?style=flat-square&logo=cadence-design-systems" alt="Cadence Virtuoso" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Microsoft_Office-black?style=flat-square&logo=microsoft-office" alt="Microsoft Office" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio" alt="Visual Studio" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-NetBeans-black?style=flat-square&logo=apache-netbeans-ide" alt="NetBeans" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter" alt="Jupyter Notebook" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio" alt="Android Studio" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=autodesk" alt="AutoCAD" style="width: 100px; margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk" alt="Fusion 360" style="width: 100px; margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Unix-black?style=flat-square&logo=linux" alt="Unix" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" alt="Linux" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Macintosh-black?style=flat-square&logo=apple" alt="Macintosh" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Raspbian-black?style=flat-square&logo=raspberry-pi" alt="Raspbian" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" alt="C++" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt="HTML" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt="CSS" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask" alt="Python Flask" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Arduino_UNO-black?style=flat-square&logo=arduino" alt="Arduino UNO" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino" alt="ATmega32u4" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif" alt="ESP32" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics" alt="STM32F429I-Discovery" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx" alt="Xilinx Vivado" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Verilog_HDL-black?style=flat-square&logo=verilog" alt="Verilog HDL" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera" alt="FPGA" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Cadence_Virtuoso-black?style=flat-square&logo=cadence-design-systems" alt="Cadence Virtuoso" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Microsoft_Office-black?style=flat-square&logo=microsoft-office" alt="Microsoft Office" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio" alt="Visual Studio" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-NetBeans-black?style=flat-square&logo=apache-netbeans-ide" alt="NetBeans" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter" alt="Jupyter Notebook" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio" alt="Android Studio" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=autodesk" alt="AutoCAD" width="100" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk" alt="Fusion 360" width="100" style="margin-right: 10px;">
     </div>
   </div>
 </details>
