@@ -4,8 +4,6 @@
 
 I'm a computer engineering graduate from New York University, Tandon School of Engineering, with a minor in Science & Technology. I'm currently working as an Embedded Software Engineer at Student Impact Innovation Lab. I've a diverse set of skills, ranging from C++, Java, Python to database systems, operating systems, and machine learning.
 
-💼 Currently working at Student Impact Innovation Lab as an Embedded Software Engineer.
-
 🎓 Graduated from New York University, Tandon School of Engineering.
 
 🌱 I’m currently learning more about Machine Learning and AI.
