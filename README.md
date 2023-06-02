@@ -92,7 +92,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
-  <summary>Modular Wearable System 👕 (Summer 2022)</summary>
+ <summary>Modular Wearable System 🦾 (Summer 2022)</summary>
   <p>
   
   - Collaborated with a team to create a wearable device using non-invasive muscle signal decoding to aid individuals with physical or neurological impairments, enhancing wireless transmission via UDP and IoT integration.
@@ -114,17 +114,17 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
-  <summary>Blood Pressure Machine (Sphygmomanometer) 💉 (Spring 2022)</summary>
+  <summary>Blood Pressure Machine (Sphygmomanometer) 🩺 (Spring 2022)</summary>
   <p>
   
-  - Produced a blood pressure measuring device by connecting a Honeywell pressure sensor to an Adafruit Circuit Playground Classic microcontroller, applying communication protocol I2C to interface with the sensor through GPIO pins.
+  - Produced a blood pressure measuring device by connecting a Honeywell pressure sensor to an Adafruit Circuit Playground Classic       microcontroller, applying communication protocol I2C to interface with the sensor through GPIO pins.
   - 🔧 ![ATmega32U4](https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino)
     
   </p>
 </details>
 
 <details>
-  <summary>E20 Assembler / Processor Simulator/ Cache ⚙️ (Spring 2021)</summary>
+<summary>E20 Assembler / Processor Simulator/ Cache 🖥️ (Spring 2021)</summary>
   <p>
   
   - Worked on a project involving E20, a CPU with a 16-bit program counter and seven read and write registers. Developed a C++ program to read assembly language and convert instructions into machine code, and designed a two-cache simulator to improve cache hits.
