@@ -63,6 +63,48 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=autodesk)
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk)
 
+## Skills 🛠
+
+### Operating Systems
+
+<img align="left" alt="Unix" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Unix-black?style=flat-square&logo=linux" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" />
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
+<img align="left" alt="Macintosh" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Macintosh-black?style=flat-square&logo=apple" />
+<img align="left" alt="Raspbian" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Raspbian-black?style=flat-square&logo=raspberry-pi" />
+
+<br /><br />
+
+### Programming Languages
+
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" />
+<img align="left" alt="Python Flask" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask" />
+
+<br /><br />
+
+### Hardware and Microcontrollers
+
+<img align="left" alt="Arduino UNO" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Arduino_UNO-black?style=flat-square&logo=arduino" />
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=raspberry-pi" />
+<img align="left" alt="ATmega32u4" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino" />
+<img align="left" alt="ESP32" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif" />
+<img align="left" alt="STM32F429I-Discovery" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics" />
+
+<br /><br />
+
+### Digital Design Tools
+
+<img align="left" alt="Xilinx Vivado" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx" />
+<img align="left" alt="Verilog HDL" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Verilog_HDL-black?style=flat-square&logo=verilog" />
+<img align="left" alt="FPGA" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera" />
+<img align="left" alt="Cadence Virtuoso" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/-Cadence_Virtuoso-black?style=flat-square&
+
 
 ## Projects 💻
 
