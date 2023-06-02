@@ -1,6 +1,7 @@
 # Hello, I'm Jack Shkifati 👋
 
-![My Image](https://raw.githubusercontent.com/JackShkifati28/your-repository/main/compE.jpeg)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/compE.jpeg)
+
 
 
 
