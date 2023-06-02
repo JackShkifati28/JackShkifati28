@@ -67,6 +67,75 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 
 ## Projects 💻
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<h2>Projects 🚀</h2>
+
+<button class="collapsible">Project 1</button>
+<div class="content">
+  <p>A brief summary of project 1...</p>
+</div>
+
+<button class="collapsible">Project 2</button>
+<div class="content">
+  <p>A brief summary of project 2...</p>
+</div>
+
+<button class="collapsible">Project 3</button>
+<div class="content">
+  <p>A brief summary of project 3...</p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
+
+</body>
+</html> 
+
+
 #### Embedded Sentry 🛡️
 - 📅 Spring 2023
 - 🔧 ![STM32F429I-Discovery](https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics)
@@ -102,18 +171,5 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 - 🔧 ![FPGA](https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera)
 - 🔧 ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx)
 
-
-## Work Experience 💼
-
-- **Embedded Software Engineer** at Student Impact Innovation Lab (Sep 2022 - Present)
-- **Software Engineer Intern** at ModDev (Jan 2020 - Sep 2021)
-- **Store Manager** at Madison Jewelers
-
-## Connect with me 🌐
-- [Email](mailto:Ys5063@nyu.edu)
-
-## License
-
-[MIT](./LICENSE)
 
 
