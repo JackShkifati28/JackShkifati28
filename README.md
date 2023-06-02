@@ -63,44 +63,6 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=autodesk)
 ![Fusion 360](https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk)
 
-<details>
-  <summary><strong>Skills 🛠</strong></summary>
-  <br>
-  <div style="overflow-x: scroll;">
-    <div style="display: flex;">
-      <img src="https://img.shields.io/badge/-Unix-black?style=flat-square&logo=linux" alt="Unix" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" alt="Linux" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Macintosh-black?style=flat-square&logo=apple" alt="Macintosh" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Raspbian-black?style=flat-square&logo=raspberry-pi" alt="Raspbian" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" alt="C++" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt="HTML" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt="CSS" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask" alt="Python Flask" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Arduino_UNO-black?style=flat-square&logo=arduino" alt="Arduino UNO" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino" alt="ATmega32u4" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif" alt="ESP32" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics" alt="STM32F429I-Discovery" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx" alt="Xilinx Vivado" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Verilog_HDL-black?style=flat-square&logo=verilog" alt="Verilog HDL" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera" alt="FPGA" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Cadence_Virtuoso-black?style=flat-square&logo=cadence-design-systems" alt="Cadence Virtuoso" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Microsoft_Office-black?style=flat-square&logo=microsoft-office" alt="Microsoft Office" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio" alt="Visual Studio" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-NetBeans-black?style=flat-square&logo=apache-netbeans-ide" alt="NetBeans" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter" alt="Jupyter Notebook" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio" alt="Android Studio" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=autodesk" alt="AutoCAD" width="100" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk" alt="Fusion 360" width="100" style="margin-right: 10px;">
-    </div>
-  </div>
-</details>
-
 
 
 
@@ -184,5 +146,161 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 
+
+
+<style>
+section {
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+</style>
+
+## About Me 👋
+
+I'm a passionate and dedicated Computer Engineering graduate with a strong interest in technology and problem-solving. I enjoy understanding how things work and have a particular fascination with physics. I love to explore new technologies and apply them to real-world projects.
+
+## Education 🎓
+
+### New York University, Tandon School of Engineering
+
+- B.S. Computer Engineering | Minor in Science & Technology | Overall GPA: 3.8 | Dean's list
+- Relevant Coursework: UG and Grad Embedded Systems, Computer Architecture, Digital Logic and Machine Design, Electronics, Machine Learning, Operating Systems, Database Systems, Very-Large-Scale-Integrated Circuits (VLSI)
+- Awards: University Honors Scholar (Founders Day award)
+
+### City University of New York, Brooklyn College
+
+- Major in Computer Engineering | Overall GPA: 3.63 | 3x Dean's list | Engineering Honors Program
+- Relevant Coursework: Engineering Physics I-II, Engineering Mechanics, Circuits, Object-Oriented Programming (Java), Data Structures & Algorithms (Java), Programming Paradigms in C++, Calculus I-III, Linear Algebra, Differential Equation
+- Awards: Grace Spruch Award (Committee of Physics Department)
+
+## Skills 🛠️
+
+<details>
+  <summary>Click to expand</summary>
+  
+  ### Operating Systems
+  
+  ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=linux)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+  ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+  ![Macintosh](https://img.shields.io/badge/-Macintosh-black?style=flat-square&logo=apple)
+  ![Raspbian](https://img.shields.io/badge/-Raspbian-black?style=flat-square&logo=raspberry-pi)
+  
+  ### Programming Languages
+  
+  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+  ![Python Flask](https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask)
+  
+  ### Microcontrollers
+  
+  ![Arduino UNO](https://img.shields.io/badge/-Arduino_UNO-black?style=flat-square&logo=arduino)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-black?style=flat-square&logo=raspberry-pi)
+  ![ATmega32u4](https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino)
+  ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif)
+  ![STM32F429I-Discovery](https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics)
+  
+  ### Schematic Design
+  
+  ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx)
+  ![Verilog HDL](https://img.shields.io/badge/-Verilog_HDL-black?style=flat-square&logo=verilog)
+  ![FPGA](https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera)
+  ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence_Virtuoso-black?style=flat-square&logo=cadence-design-systems)
+  
+  ### Other Tools
+  
+  ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-black?style=flat-square&logo=microsoft-office)
+  ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio)
+  ![NetBeans](https://img.shields.io/badge/-NetBeans-black?style=flat-square&logo=apache-netbeans-ide)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
+  ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio)
+  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-black?style=flat-square&logo=autodesk)
+  ![Fusion 360](https://img.shields.io/badge/-Fusion_360-black?style=flat-square&logo=autodesk)
+</details>
+
+## Projects 💻
+
+<details>
+  <summary>Click to expand</summary>
+  
+  ### Embedded Sentry 🛡️ (Spring 2023)
+  
+  Developed a bio-security system using an STM32F429I-Discovery microcontroller and Mbed OS. This system leveraged an on-board gyroscope to record a unique hand movement sequence, creating a bio-based authentication method. Introduced the "Record Key" feature that stored the recorded sequence on the microcontroller, providing the basis for bio-authentication. Integrated the Dynamic Time Warping (DTW) algorithm to accurately recognize the movement sequence, which increased the robustness and repeatability of the system. Devised a user-friendly "enter key" and "record" functionality to guide the user through the process of recording and replicating the unlocking sequence.
+  
+  ### Air Ticket Reservation Web Application ✈️ (Spring 2023)
+  
+  Designed and developed a dual-interface Online Air Ticket Reservation System for both Customers and Airline Staff (Administrators) using Python Flask, MySQL, and HTML. Managed server-side operations, data management of flight details and user records, and created a user-friendly front-end, resulting in an efficient reservation process for all user types. Enabled customers to search for flights (one-way or round-trip), purchase flight tickets, view their future flight status, and access their past flight records, enhancing user convenience and autonomy. Designed administrator functionalities allowing Airline Staff to manage aviation operations, including adding new airplanes, creating new flights, and updating flight statuses.
+  
+  ### Modular Wearable System 👕 (Summer 2022)
+  
+  Collaborated with a team of 10 experts to create a wearable device applying non-invasive muscle signal decoding to aid individuals with physical or neurological impairments. Utilized sMMG to obtain myoelectric muscle signals and predict hand gestures and movements for personalized, real-time feedback. Enhanced wireless transmission from 50Hz to 2000Hz via implementation of User Datagram Protocol (UDP) and IoT integration.
+  
+  ### Breast Cancer Survivability Prediction 🎗️ (Fall 2022)
+  
+  Conducted a machine learning project using logistic regression, support vector machines, and neural networks to predict survivability of women with breast cancer at certain progression stages. Employed Supervised learning with Synthetic Minority Oversampling Technique (SMOTE) to balance the dataset and applied regularization techniques such as feature transformations to increase model accuracy.
+  
+  ### Blood Pressure Machine (Sphygmomanometer) 💉 (Spring 2022)
+  
+  Produced a measuring device that detects heart rate, systolic and diastolic blood pressure by connecting a Honeywell pressure sensor to an Adafruit Circuit Playground Classic microcontroller. Utilized Neo pixels to inform the user when the brachial artery's circulation is cut off and to keep cuff deflation rate at 2-3mmHg per second, as recommended by the American Hospital Association (AHA). Applied Communication protocol I2C to interface with the pressure sensor through GPIO pins.
+  
+  ### E20 Assembler / Processor Simulator/ Cache ⚙️ (Spring 2021)
+  
+  Developed a C++ program that reads assembly language and converts instructions into machine code. Created a processor simulator that reads machine code programs and executes instructions written in E20 assembly language. Designed a two-cache simulator with direct, n-associated, and fully-associated configurations to monitor the impact of an E20 application. Integrated a two-cache simulator with a Least Recently Used (LRU) cache replacement algorithm to improve cache hits.
+  
+  ### Traffic Light Controller 🚦 (Fall 2021)
+  
+  Implemented a traffic control system capable of regulating traffic lights at a street intersection using digital design tools and techniques, CAD tools such as Xilinx, and reconfigurable chips.
+</details>
+
+## Experience 💼
+
+<details>
+  <summary>Click to expand</summary>
+  
+  ### Embedded Software Engineer | Student Impact Innovation Lab (Sep 2021 – Aug 2021)
+  
+  Assisted in the development of a modular IoT platform for smart home automation. Collaborated with a team of engineers to design and implement firmware for Wi-Fi-enabled devices. Conducted code reviews and contributed to the optimization of firmware for memory and power efficiency.
+</details>
+
+## Certifications 📜
+
+<details>
+  <summary>Click to expand</summary>
+  
+  - Cisco Certified Network Associate (CCNA)
+  - Certified Ethical Hacker (CEH)
+</details>
+
+## Languages 🌐
+
+<details>
+  <summary>Click to expand</summary>
+  
+  - English (Native)
+  - Spanish (Intermediate)
+  - French (Basic)
+</details>
+
+## Interests ❤️
+
+<details>
+  <summary>Click to expand</summary>
+  
+  - Physics
+  - Robotics
+  - Artificial Intelligence
+  - Internet of Things (IoT)
+</details>
+
+## References 📞
+
+Available upon request.
 
 
