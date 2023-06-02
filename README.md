@@ -1,5 +1,7 @@
 # Hello, I'm Jack Shkifati 👋
 
+![My Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlinemasters.ohio.edu%2Fblog%2Fwhat-is-computer-engineering%2F&psig=AOvVaw0N2OPoVP0QUqoN4UaEiUIe&ust=1685826636399000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLibzeG_pf8CFQAAAAAdAAAAABAQ)
+
 ## About Me 🚀
 
 Hello there, fellow GitHub user! 🙌 I'm Jack Shkifati, an enthusiastic and innovative Computer Engineer hailing from the vibrant city of New York. When I'm not pouring over data structures or tinkering with microcontrollers, you might find me exploring the city's food scene, diving into the latest physics book, or on the quest for the perfect espresso ☕
