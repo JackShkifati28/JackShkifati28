@@ -33,8 +33,6 @@ I'm a computer engineering graduate from New York University, Tandon School of E
 - **Store Manager** at Madison Jewelers
 
 ## Connect with me 🌐
-
-- [LinkedIn](www.linkedin.com/in/jack-shkifati-89a699175)
 - [Email](mailto:Ys5063@nyu.edu)
 
 ## License
