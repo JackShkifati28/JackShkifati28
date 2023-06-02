@@ -34,7 +34,7 @@ I'm a computer engineering graduate from New York University, Tandon School of E
 
 ## Connect with me 🌐
 
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](www.linkedin.com/in/jack-shkifati-89a699175)
 - [Email](mailto:Ys5063@nyu.edu)
 
 ## License
