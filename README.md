@@ -12,14 +12,10 @@ In the realm of technology, innovation, and impact, I've found my calling. Throu
 
 On the professional front, I've made significant contributions as an Embedded Software Engineer, where I developed a device for non-invasive detection of skin abnormalities, enhancing accuracy in skin cancer screening. It's these projects where tech meets impact that get me really excited! 🌍
 
-Away from the tech world, I relish creative outlets! Photography, playing guitar, and globetrotting are just a few of the activities that keep me inspired. I can never resist a good sci-fi movie — the interplay of physics and imagination is simply unbeatable. 🎸🌌🎬
-
 So, go ahead and explore my GitHub, check out my projects, and don't hesitate to reach out if you'd like to collaborate or just geek out about physics and tech. Let's create something awesome together! 👋
-
 
 🎓 Graduated from New York University, Tandon School of Engineering.
 
-🌱 I’m currently learning more about Machine Learning and AI.
 
 ## Skills 🛠
 
