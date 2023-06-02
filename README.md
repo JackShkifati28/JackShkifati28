@@ -1,6 +1,6 @@
 # Hello, I'm Jack Shkifati 👋
 
-![https://drive.google.com/file/d/1uNkDlVRnRKGvkvut8AObpgel2e5a5U7v/view?usp=share_link](direct_image_url)
+![https://drive.google.com/file/d/1uNkDlVRnRKGvkvut8AObpgel2e5a5U7v/view](direct_image_url)
 
 
 ## About Me 🚀
