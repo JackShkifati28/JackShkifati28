@@ -1,9 +1,6 @@
-# Hello, I'm Jack Shkifati 👋
-
 ![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/compE.jpeg)
 
-
-
+# Hello, I'm Jack Shkifati 👋
 
 ## About Me 🚀
 
