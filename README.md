@@ -1,3 +1,4 @@
+![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/CompE1.jpeg)
 
 # Hello, I'm Jack Shkifati 👋
 
@@ -16,8 +17,6 @@ On the professional front, I've made significant contributions as an Embedded So
 So, go ahead and explore my GitHub, check out my projects, and don't hesitate to reach out if you'd like to collaborate or just geek out about physics and tech. Let's create something awesome together! 👋
 
 🎓 Graduated from New York University, Tandon School of Engineering.
-
-![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/compE.jpeg)
 
 ## Skills 🛠
 
