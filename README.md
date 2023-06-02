@@ -1,4 +1,3 @@
-![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/compE.jpeg)
 
 # Hello, I'm Jack Shkifati 👋
 
@@ -18,6 +17,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 
 🎓 Graduated from New York University, Tandon School of Engineering.
 
+![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/compE.jpeg)
 
 ## Skills 🛠
 
