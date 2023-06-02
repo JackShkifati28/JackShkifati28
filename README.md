@@ -67,109 +67,83 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 
 ## Projects 💻
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
+<details>
+  <summary>Embedded Sentry 🛡️ (Spring 2023)</summary>
+  <p>
+  
+  - Developed a bio-security system using an STM32F429I-Discovery microcontroller and Mbed OS, leveraging an on-board gyroscope to record a unique hand movement sequence, creating a bio-based authentication method.
+  - 🔧 ![STM32F429I-Discovery](https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics)
+  - 🔧 ![Mbed](https://img.shields.io/badge/-Mbed-black?style=flat-square&logo=Arm)
+    
+  </p>
+</details>
 
-.active, .collapsible:hover {
-  background-color: #555;
-}
+<details>
+  <summary>Air Ticket Reservation Web Application ✈️ (Spring 2023)</summary>
+  <p>
+  
+  - Designed and developed a dual-interface Online Air Ticket Reservation System for both Customers and Airline Staff using Python Flask, MySQL, and HTML, enabling an efficient reservation process.
+  - 🔧 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+  - 🔧 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+  - 🔧 ![Python Flask](https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask)
+  - 🔧 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+    
+  </p>
+</details>
 
-.content {
-  padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
-}
-</style>
-</head>
-<body>
+<details>
+  <summary>Modular Wearable System 👕 (Summer 2022)</summary>
+  <p>
+  
+  - Collaborated with a team to create a wearable device using non-invasive muscle signal decoding to aid individuals with physical or neurological impairments, enhancing wireless transmission via UDP and IoT integration.
+  - 🔧 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif)
+  - 🔧 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+    
+  </p>
+</details>
 
-<h2>Projects 🚀</h2>
+<details>
+  <summary>Breast Cancer Survivability Prediction 🎗️ (Fall 2022)</summary>
+  <p>
+  
+  - Conducted a machine learning project using various techniques to predict survivability of women with breast cancer at certain progression stages, employing methods such as SMOTE to balance the dataset and feature transformations to increase model accuracy.
+  - 🔧 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  - 🔧 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
+    
+  </p>
+</details>
 
-<button class="collapsible">Project 1</button>
-<div class="content">
-  <p>A brief summary of project 1...</p>
-</div>
+<details>
+  <summary>Blood Pressure Machine (Sphygmomanometer) 💉 (Spring 2022)</summary>
+  <p>
+  
+  - Produced a blood pressure measuring device by connecting a Honeywell pressure sensor to an Adafruit Circuit Playground Classic microcontroller, applying communication protocol I2C to interface with the sensor through GPIO pins.
+  - 🔧 ![ATmega32U4](https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino)
+    
+  </p>
+</details>
 
-<button class="collapsible">Project 2</button>
-<div class="content">
-  <p>A brief summary of project 2...</p>
-</div>
+<details>
+  <summary>E20 Assembler / Processor Simulator/ Cache ⚙️ (Spring 2021)</summary>
+  <p>
+  
+  - Worked on a project involving E20, a CPU with a 16-bit program counter and seven read and write registers. Developed a C++ program to read assembly language and convert instructions into machine code, and designed a two-cache simulator to improve cache hits.
+  - 🔧 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+    
+  </p>
+</details>
 
-<button class="collapsible">Project 3</button>
-<div class="content">
-  <p>A brief summary of project 3...</p>
-</div>
+<details>
+  <summary>Traffic Light Controller 🚦 (Fall 2021)</summary>
+  <p>
+  
+  - Implemented a traffic control system regulating traffic lights at a street intersection using digital design tools and CAD tools such as Xilinx to form hardware, and reconfigurable chips.
+  - 🔧 ![FPGA](https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera)
+  - 🔧 ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx)
+    
+  </p>
+</details>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
-
-</body>
-</html> 
-
-
-#### Embedded Sentry 🛡️
-- 📅 Spring 2023
-- 🔧 ![STM32F429I-Discovery](https://img.shields.io/badge/-STM32F429I_Discovery-black?style=flat-square&logo=STMicroelectronics)
-- 🔧 ![Mbed](https://img.shields.io/badge/-Mbed-black?style=flat-square&logo=Arm)
-
-#### Air Ticket Reservation Web Application ✈️
-- 📅 Spring 2023
-- 🔧 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-- 🔧 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-- 🔧 ![Python Flask](https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask)
-- 🔧 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-#### Modular Wearable System 👕
-- 📅 Summer 2022
-- 🔧 ![ESP32](https://img.shields.io/badge/-ESP32-black?style=flat-square&logo=espressif)
-- 🔧 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-
-#### Breast Cancer Survivability Prediction 🎗️
-- 📅 Fall 2022
-- 🔧 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-- 🔧 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-black?style=flat-square&logo=jupyter)
-
-#### Blood Pressure Machine (Sphygmomanometer) 💉
-- 📅 Spring 2022
-- 🔧 ![ATmega32U4](https://img.shields.io/badge/-ATmega32u4-black?style=flat-square&logo=arduino)
-
-#### E20 Assembler / Processor Simulator/ Cache ⚙️
-- 📅 Spring 2021
-- 🔧 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-
-#### Traffic Light Controller 🚦
-- 📅 Fall 2021
-- 🔧 ![FPGA](https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera)
-- 🔧 ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx)
 
 
 
