@@ -2,7 +2,20 @@
 
 ## About Me 🚀
 
-I'm a computer engineering graduate from New York University, Tandon School of Engineering, with a minor in Science & Technology. I'm currently working as an Embedded Software Engineer at Student Impact Innovation Lab. I've a diverse set of skills, ranging from C++, Java, Python to database systems, operating systems, and machine learning.
+Hello there, fellow GitHub user! 🙌 I'm Jack Shkifati, an enthusiastic and innovative Computer Engineer hailing from the vibrant city of New York. When I'm not pouring over data structures or tinkering with microcontrollers, you might find me exploring the city's food scene, diving into the latest physics book, or on the quest for the perfect espresso ☕
+
+Ever since I can remember, I've had a deep-rooted passion for understanding how things work. I'm not just talking about software and electronics, but the fundamental laws that govern our universe. Physics has always been a subject close to my heart and understanding these principles gives me an unparalleled appreciation for the technology I work with. 🌌
+
+I'm a proud alumni of NYU's Tandon School of Engineering and CUNY's Brooklyn College, where I was able to foster my love for engineering and physics alike. From C++ to Python, Arduino to Raspberry Pi, and databases to machine learning, I've got quite the technological arsenal up my sleeve! 💻
+
+In the realm of technology, innovation, and impact, I've found my calling. Throughout my career, I've worked on diverse projects — from developing a bio-security system to predicting breast cancer survivability. And trust me, there's no thrill quite like the one you get when you see your code come to life! 🎯
+
+On the professional front, I've made significant contributions as an Embedded Software Engineer, where I developed a device for non-invasive detection of skin abnormalities, enhancing accuracy in skin cancer screening. It's these projects where tech meets impact that get me really excited! 🌍
+
+Away from the tech world, I relish creative outlets! Photography, playing guitar, and globetrotting are just a few of the activities that keep me inspired. I can never resist a good sci-fi movie — the interplay of physics and imagination is simply unbeatable. 🎸🌌🎬
+
+So, go ahead and explore my GitHub, check out my projects, and don't hesitate to reach out if you'd like to collaborate or just geek out about physics and tech. Let's create something awesome together! 👋
+
 
 🎓 Graduated from New York University, Tandon School of Engineering.
 
