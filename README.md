@@ -139,6 +139,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
   <p>
   
   - Implemented a traffic control system regulating traffic lights at a street intersection using digital design tools and CAD tools such as Xilinx to form hardware, and reconfigurable chips.
+  - 🔧 ![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square)
   - 🔧 ![FPGA](https://img.shields.io/badge/-FPGA-black?style=flat-square&logo=altera)
   - 🔧 ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx_Vivado-black?style=flat-square&logo=xilinx)
     
