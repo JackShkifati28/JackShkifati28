@@ -37,7 +37,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![Python Flask](https://img.shields.io/badge/-Python_Flask-black?style=flat-square&logo=flask)
 ![ARM](https://img.shields.io/badge/-ARM-black?style=flat-square&logo=arm)
-![Intel](https://img.shields.io/badge/-Intel-black?style=flat-square&logo=intel)
+![x86 Assembly](https://img.shields.io/badge/-x86%20Assembly-black?style=flat-square)
 
 
 ### Hardware and Microcontrollers
