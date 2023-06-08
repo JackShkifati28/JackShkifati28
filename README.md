@@ -66,7 +66,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 ## Projects 💻
 
 <details>
-  <summary>Embedded Sentry 🛡️ (Spring 2023)</summary>
+  <summary>Embedded Sentry 🛡️</summary>
   <p>
   
   - Developed a bio-security system using an STM32F429I-Discovery microcontroller and Mbed OS, leveraging an on-board gyroscope to record a unique hand movement sequence, creating a bio-based authentication method.
@@ -77,7 +77,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
-  <summary>Air Ticket Reservation Web Application ✈️ (Spring 2023)</summary>
+  <summary>Air Ticket Reservation Web Application ✈️ </summary>
   <p>
   
   - Designed and developed a dual-interface Online Air Ticket Reservation System for both Customers and Airline Staff using Python Flask, MySQL, and HTML, enabling an efficient reservation process.
@@ -90,7 +90,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
- <summary>Modular Wearable System 🦾 (Summer 2022)</summary>
+ <summary>Modular Wearable System 🦾 </summary>
   <p>
   
   - Collaborated with a team to create a wearable device using non-invasive muscle signal decoding to aid individuals with physical or neurological impairments, enhancing wireless transmission via UDP and IoT integration.
@@ -101,7 +101,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
-  <summary>Breast Cancer Survivability Prediction 🎗️ (Fall 2022)</summary>
+  <summary>Breast Cancer Survivability Prediction 🎗️ </summary>
   <p>
   
   - Conducted a machine learning project using various techniques to predict survivability of women with breast cancer at certain progression stages, employing methods such as SMOTE to balance the dataset and feature transformations to increase model accuracy.
@@ -112,7 +112,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
-  <summary>Blood Pressure Machine (Sphygmomanometer) 🩺 (Spring 2022)</summary>
+  <summary>Blood Pressure Device (Sphygmomanometer) 🩺 </summary>
   <p>
   
   - Produced a blood pressure measuring device by connecting a Honeywell pressure sensor to an Adafruit Circuit Playground Classic       microcontroller, applying communication protocol I2C to interface with the sensor through GPIO pins.
@@ -122,7 +122,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
-<summary>E20 Assembler / Processor Simulator/ Cache 🖥️ (Spring 2021)</summary>
+<summary>E20 Assembler / Processor Simulator/ Cache 🖥️ </summary>
   <p>
   
   - Worked on a project involving E20, a CPU with a 16-bit program counter and seven read and write registers. Developed a C++ program to read assembly language and convert instructions into machine code, and designed a two-cache simulator to improve cache hits.
@@ -132,7 +132,7 @@ So, go ahead and explore my GitHub, check out my projects, and don't hesitate to
 </details>
 
 <details>
-  <summary>Traffic Light Controller 🚦 (Fall 2021)</summary>
+  <summary>Traffic Light Controller 🚦 </summary>
   <p>
   
   - Implemented a traffic control system regulating traffic lights at a street intersection using digital design tools and CAD tools such as Xilinx to form hardware, and reconfigurable chips.
